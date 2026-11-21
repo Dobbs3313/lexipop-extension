@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>LexiPop</title>
+  <link rel="stylesheet" href="ui-base.css">
+</head>
+<body>
+  <header class="app-header">
+    <div class="brand">
+      <img src="icons/icon48.png" alt="LexiPop">
+      <div>
+        <div class="brand-title">LexiPop</div>
+        <div class="brand-sub">Privacy-first dictionary & wordbook</div>
+      </div>
+    </div>
+    <button class="tier-pill" id="tierPill">FREE</button>
+  </header>
+
+  <nav class="tabs">
+    <button class="tab-btn active" data-tab="lookup">Lookup</button>
+    <button class="tab-btn" data-tab="wordbook">Wordbook</button>
+    <button class="tab-btn" data-tab="settings">Bubble</button>
+    <button class="tab-btn" data-tab="pro">Pro</button>
+  </nav>
+
+  <main>
+    <section class="panel active" id="panel-lookup">
+      <div class="card">
+        <div class="row">
+          <input type="text" id="wordInput" placeholder="Type any English word...">
+          <button class="btn btn-primary btn-sm" id="searchBtn">Define</button>
+        </div>
+      </div>
+      <div class="card" id="resultCard">
+        <div class="muted">Type a word above or double-click any word on a webpage to see definitions, phonetics, audio & synonyms.</div>
+      </div>
+      <div class="card">
+        <div class="card-title">Recent Lookups</div>
+        <div class="list" id="historyList"></div>
+      </div>
+    </section>
+
+    <section class="panel" id="panel-wordbook">
+      <div class="card">
+        <div class="row">
+          <div style="font-weight:700;">Saved Words (<span id="wbCount">0</span>)</div>
+          <div style="display:flex;gap:5px;">
+            <button class="btn btn-sm" id="exportAnkiBtn">Anki TSV <span class="pro-tag">PRO</span></button>
+            <button class="btn btn-sm" id="exportCsvBtn">CSV <span class="pro-tag">PRO</span></button>
+          </div>
+        </div>
+      </div>
+      <div class="list" id="wordbookList" style="max-height:330px;"></div>
+    </section>
+
+    <section class="panel" id="panel-settings">
+      <div class="card">
+        <div class="card-title">In-Page Bubble Preferences</div>
+        <div class="row">
+          <span>Double-click to define</span>
+          <label class="switch"><input type="checkbox" id="dblClickToggle"><span class="slider"></span></label>
+        </div>
+        <div class="row">
+          <span>Require Alt + Double-click</span>
+          <label class="switch"><input type="checkbox" id="requireAltToggle"><span class="slider"></span></label>
+        </div>
+        <div class="row" style="margin-top:10px;">
+          <span>Bubble Theme</span>
+          <select id="bubbleThemeSelect" style="width:120px;">
+            <option value="dark">Dark Glass</option>
+            <option value="light">Clean Light</option>
+          </select>
+        </div>
+        <div class="row" style="margin-top:10px;">
+          <span>Bubble Font Size</span>
+          <span id="fontSizeVal">14px</span>
+        </div>
+        <input type="range" id="fontSizeRange" min="12" max="20" value="14">
+      </div>
+    </section>
+
+    <section class="panel" id="panel-pro"></section>
+  </main>
+
+  <div class="toast" id="toast"></div>
+  <script type="module" src="popup.js"></script>
+</body>
+</html>
