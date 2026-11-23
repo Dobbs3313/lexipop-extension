@@ -4,6 +4,10 @@
 
 A fast, privacy-first Chrome Manifest V3 extension built by **ARIS PARTY LLC** to outperform **Google Dictionary** (`mgijmajocgfcbeboacabfgobmjgjcoja`, 4M+ users, 3.8★).
 
+- **Product Page:** https://arisparty.org/extensions/lexipop
+- **Privacy Policy:** https://arisparty.org/extensions/lexipop/privacy
+- **Support & Setup:** https://arisparty.org/extensions/lexipop/support (`support@arisparty.org`)
+
 ## Competitive Advantages
 - Replaces Google Dictionary (4M users, 3.8★) with ZERO Google Analytics and minimal permissions
 - Fixes tiny unreadable popup font with live font-size slider & Dark/Light bubble mode
@@ -41,4 +45,4 @@ A fast, privacy-first Chrome Manifest V3 extension built by **ARIS PARTY LLC** t
 ```bash
 node tests/verify.mjs .
 ```
-Outputs a store-ready archive at `dist/lexipop-extension-v1.0.0.zip`.
+Outputs a store-ready archive with 56 `_locales` at `dist/lexipop-extension-v1.0.0.zip`.

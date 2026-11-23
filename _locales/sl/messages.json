@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — Takojšnji Slovar in Besednjak",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Zasebni slovar z dvojnim klikom z IPA fonetiko, zvočno izgovarjavo, prilagodljivo pisavo in izvozom Anki/CSV.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

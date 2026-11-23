@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — Словарь по клику и словарь слов",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Приватный словарь по двойному клику: транскрипция МФА, аудио, настройка шрифта и экспорт словника в Anki/CSV.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

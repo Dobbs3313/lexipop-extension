@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — Woordenboek & Woordenlijst",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Privacygericht dubbelklik-woordenboek met IPA-fonetiek, audio-uitspraak, instelbare tekst en Anki/CSV-export.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

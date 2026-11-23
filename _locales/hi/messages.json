@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — तुरंत शब्दकोश और शब्द-पुस्तिका",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "गोपनीयता-प्रथम डबल-क्लिक शब्दकोश: IPA ध्वन्यात्मकता, ऑडियो उच्चारण, टेक्स्ट आकार और Anki/CSV निर्यात।",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

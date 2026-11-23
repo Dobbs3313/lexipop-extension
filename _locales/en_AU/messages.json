@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — Instant Dictionary & Wordbook",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Privacy-first double-click dictionary with IPA phonetics, audio pronunciation, adjustable typography, and Anki/CSV Wordbook export.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

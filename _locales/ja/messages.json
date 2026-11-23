@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — 即時辞書＆単語帳",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "ダブルクリックで意味・IPA発音記号・音声再生を表示するプライバシー重視の辞書。文字サイズ調整とAnki/CSV出力に対応。",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

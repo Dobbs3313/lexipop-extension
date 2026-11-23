@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — Słownik i Zeszyt Słówek",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Prywatny słownik na dwuklik z fonetyką IPA, wymową audio, regulacją czcionki oraz eksportem słówek do Anki/CSV.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

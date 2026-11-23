@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — Straks-Ordbog & Glosebog",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Privatlivsfokuseret dobbeltklik-ordbog med IPA-fonetik, lydudtale, justerbar tekst samt Anki/CSV-eksport.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

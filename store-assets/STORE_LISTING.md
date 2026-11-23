@@ -3,8 +3,11 @@
 - **Title:** LexiPop — Privacy-First Double-Click Dictiona
 - **Category:** Productivity -> Tools
 - **Version:** 1.0.0
+- **Locales:** 56 Chrome Web Store languages (`_locales/`)
 - **Pricing:** Free with optional Stripe Pro upgrade ($2.99/mo · $19.99/yr · $29.99 Lifetime)
-- **Privacy Policy URL:** `https://github.com/Dobbs3313/lexipop-extension/blob/main/store-assets/PRIVACY_POLICY.md`
+- **Homepage URL:** `https://arisparty.org/extensions/lexipop`
+- **Support URL:** `https://arisparty.org/extensions/lexipop/support`
+- **Privacy Policy URL:** `https://arisparty.org/extensions/lexipop/privacy`
 
 ## Short Description (<= 132 chars)
 Privacy-First Double-Click Dictionary, Audio & Wordbook. Fast, privacy-first Manifest V3 utility with zero ads or telemetry.
@@ -24,6 +27,11 @@ Privacy-First Double-Click Dictionary, Audio & Wordbook. Fast, privacy-first Man
 - 1-click export to Anki TSV, CSV, and JSON
 - Custom lookup trigger & accent styling
 - Offline cache of looked-up definitions
+
+### Privacy & Support
+- Product & docs: https://arisparty.org/extensions/lexipop
+- Privacy policy: https://arisparty.org/extensions/lexipop/privacy
+- Support & setup: https://arisparty.org/extensions/lexipop/support (support@arisparty.org)
 
 ### Stripe Live Checkout Links
 - Monthly ($2.99/mo): https://buy.stripe.com/8x24gz7Vt3lD2TR5ayg3602

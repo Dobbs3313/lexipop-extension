@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — 即时词典与生词本",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "注重隐私的双击查词词典，提供 IPA 音标、音频发音、字体大小调节及 Anki/CSV 生词本导出。",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

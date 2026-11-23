@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — Anlık Sözlük ve Kelime Defteri",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Gizlilik odaklı çift tık sözlük; IPA sesletimi, sesli telaffuz, yazı boyutu ayarı ve Anki/CSV kelime dışa aktarımı.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

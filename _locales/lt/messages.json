@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — Greitas Žodynas ir Žodynėlis",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Privatus dvigubo paspaudimo žodynas su IPA fonetika, garso tarimu, šrifto valdikliais ir Anki/CSV eksportu.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

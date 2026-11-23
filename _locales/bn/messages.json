@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — তাৎক্ষণিক অভিধান ও শব্দবই",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "গোপনীয়তাসম্মত ডাবল-ক্লিক অভিধান: IPA উচ্চারণ, অডিও, ফন্ট নিয়ন্ত্রণ এবং Anki/CSV শব্দতালিকা রপ্তানি।",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

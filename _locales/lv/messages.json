@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — Tūlītēja Vārdnīca un Vārdnīciņa",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Privāta dubultklikšķa vārdnīca ar IPA fonētiku, audio izrunu, pielāgojamu tekstu un Anki/CSV eksportu.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

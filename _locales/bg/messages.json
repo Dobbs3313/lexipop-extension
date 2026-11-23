@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — Незабавен речник и бележник",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Поверителен речник с двоен клик, IPA фонетика, аудио произношение, настройка на шрифта и износ в Anki/CSV.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

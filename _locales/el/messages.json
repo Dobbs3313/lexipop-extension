@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — Άμεσο Λεξικό & Λεξιλόγιο",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Ιδιωτικό λεξικό με διπλό κλικ: φωνητική IPA, ηχητική προφορά, ρύθμιση γραμματοσειράς και εξαγωγή σε Anki/CSV.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — തൽക്ഷണ നിഘണ്ടു & വേഡ്‌ബുക്ക്",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "സ്വകാര്യത മുൻനിർത്തിയ ഡബിൾ-ക്ലിക്ക് നിഘണ്ടു; IPA ഉച്ചാരണം, ഓഡിയോ, ഫോണ്ട് ക്രമീകരണം, Anki/CSV കയറ്റുമതി.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

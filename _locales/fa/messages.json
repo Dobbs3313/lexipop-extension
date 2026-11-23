@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — فرهنگ لغت فوری و واژه‌نامه",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "فرهنگ لغت حریم‌خصوصی‌محور با دابل‌کلیک، آوانگاری IPA، تلفظ صوتی، تنظیم فونت و خروجی Anki/CSV.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

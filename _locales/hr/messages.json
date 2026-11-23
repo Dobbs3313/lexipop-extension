@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — Brzi Rječnik i Pojmovnik",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Privatni rječnik dvoklikom s IPA fonetikom, zvučnim izgovorom, prilagodljivim tekstom i Anki/CSV izvozom.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

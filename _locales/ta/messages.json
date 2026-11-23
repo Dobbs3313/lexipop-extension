@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — உடனடி அகராதி & சொல்புத்தகம்",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "தனியுரிமை காக்கும் டபுள்-கிளிக் அகராதி: IPA ஒலிப்பு, ஆடியோ உச்சரிப்பு, எழுத்துரு அளவு மற்றும் Anki/CSV ஏற்றுமதி.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

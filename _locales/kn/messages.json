@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — ತ್ವರಿತ ನಿಘಂಟು ಮತ್ತು ಪದಕೋಶ",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "ಗೌಪ್ಯತೆ-ಮೊದಲ ಡಬಲ್-ಕ್ಲಿಕ್ ನಿಘಂಟು: IPA ಧ್ವನಿಶಾಸ್ತ್ರ, ಆಡಿಯೋ ಉಚ್ಚಾರಣೆ, ಫಾಂಟ್ ಗಾತ್ರ ಮತ್ತು Anki/CSV ರಫ್ತು.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

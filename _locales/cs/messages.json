@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — Okamžitý slovník a slovníček",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Soukromý slovník na dvojklik s IPA fonetikou, zvukovou výslovností, úpravou písma a exportem do Anki/CSV.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

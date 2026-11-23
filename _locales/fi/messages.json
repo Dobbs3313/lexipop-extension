@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — Pikasanakirja & Sanakirja",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Yksityisyyttä kunnioittava kaksoisklikkaussanakirja IPA-ääntämyksellä, äänellä, kirjasinkoolla ja Anki/CSV-viennillä.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

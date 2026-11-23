@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — Direktordbok & Glosbok",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Integritetsfokuserad dubbelklicksordbok med IPA-fonetik, ljuduttal, justerbar text och Anki/CSV-export.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

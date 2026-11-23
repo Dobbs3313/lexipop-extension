@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — Kamusi ya Papo Hapo",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Kamusi ya faragha ya kubofya mara mbili yenye matamshi ya IPA, sauti, maandishi yanayorekebishwa na uhamishaji wa Anki/CSV.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

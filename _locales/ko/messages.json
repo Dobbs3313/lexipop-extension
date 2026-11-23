@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — 즉시 사전 및 단어장",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "더블 클릭으로 IPA 발음 기호, 오디오 발음, 글자 크기 조정을 제공하는 개인정보 보호 사전. Anki/CSV 단어장 내보내기 지원.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

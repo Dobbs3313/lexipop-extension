@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — Dicționar Instant și Vocabular",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Dicționar privat la dublu clic cu fonetică IPA, pronunție audio, text ajustabil și export Anki/CSV.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

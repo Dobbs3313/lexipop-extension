@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — قاموس فوري ودفتر كلمات",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "قاموس خاص بالنقر المزدوج مع النطق الصوتي IPA، التلفظ الصوتي، تخصيص الخط وتصدير الكلمات إلى Anki/CSV.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

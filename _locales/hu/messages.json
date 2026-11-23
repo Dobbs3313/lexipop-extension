@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — Azonnali Szótár és Szófüzet",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Adatvédelmi duplakattos szótár IPA fonetikával, hangkiejtéssel, állítható betűmérettel és Anki/CSV exporttal.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

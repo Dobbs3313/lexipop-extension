@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — Kamus Instan & Buku Kata",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Kamus klik ganda utamakan privasi dengan fonetik IPA, audio pelafalan, ukuran teks fleksibel, dan ekspor Anki/CSV.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

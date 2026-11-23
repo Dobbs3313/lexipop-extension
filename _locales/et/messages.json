@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — Kiirsõnastik ja Sõnavihik",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Privaatsust hoidev topeltklõpsuga sõnastik IPA foneetika, helihäälduse, kohandatava teksti ja Anki/CSV ekspordiga.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

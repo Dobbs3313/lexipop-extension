@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — Hurtigordbok og Glosebok",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Personvernvennlig dobbeltklikk-ordbok med IPA-fonetikk, lyduttale, justerbar skrift og Anki/CSV-eksport.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — ፈጣን መዝገበ ቃላት",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "ግላዊነትን የሚጠብቅ በሁለት ጠቅታ መዝገበ ቃላት ከIPA ድምጽ፣ የድምጽ አነባበብ፣ የጽሁፍ መጠን እና Anki/CSV መላክ ጋር።",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

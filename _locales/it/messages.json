@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — Dizionario & Vocabolario",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Dizionario istantaneo privato con doppio clic: fonetica IPA, audio, testo regolabile ed esportazione del quaderno in Anki/CSV.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — מילון מיידי ופנקס מילים",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "מילון פרטי בלחיצה כפולה עם תעתיק פונטי IPA, השמעת הגייה, גופן מותאם וייצוא מילים ל-Anki/CSV.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

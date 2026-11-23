@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — Từ Điển Nhanh & Sổ Từ Vựng",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Từ điển nhấp đúp bảo vệ riêng tư với phiên âm IPA, phát âm audio, tùy chỉnh cỡ chữ và xuất sổ từ Anki/CSV.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

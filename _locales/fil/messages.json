@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — Mabilisang Diksyunaryo",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Privacy-first double-click dictionary na may IPA phonetics, audio pronunciation, resizable text, at Anki/CSV export.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

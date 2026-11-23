@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — తక్షణ నిఘంటువు & పదకోశం",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "గోప్యత-మొదటి డబుల్-క్లిక్ నిఘంటువు: IPA ఫొనెటిక్స్, ఆడియో ఉచ్చారణ, ఫాంట్ నియంత్రణ మరియు Anki/CSV ఎగుమతి.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

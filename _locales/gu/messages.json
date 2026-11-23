@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "LexiPop — ત્વરિત શબ્દકોશ અને વર્ડબુક",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "LexiPop",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "ગોપનીયતા-પ્રથમ ડબલ-ક્લિક શબ્દકોશ: IPA ઉચ્ચાર, ઓડિયો, ફોન્ટ નિયંત્રણ અને Anki/CSV વર્ડબુક નિકાસ.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}
